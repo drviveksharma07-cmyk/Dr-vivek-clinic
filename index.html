@@ -146,6 +146,10 @@ document.getElementById('result').innerHTML=
 '</p><p><b>Time:</b> '+t+'</p><p><b>Problem:</b> '+s+'</p>'+
 '<p>आपकी appointment request तैयार है।</p></div>';
 }
+<script>
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("/Dr-vivek-clinic/sw.js");
+}
 </script>
 
 </body>
