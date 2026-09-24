@@ -1,0 +1,11 @@
+{
+  "name": "Dr Vivek Clinic",
+  "short_name": "Vivek Clinic",
+  "description": "Dr Vivek Clinic BAMS General Physician",
+  "start_url": "/Dr-vivek-clinic/",
+  "scope": "/Dr-vivek-clinic/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d8acb",
+  "orientation": "portrait"
+}
